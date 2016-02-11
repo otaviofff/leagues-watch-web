@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>watch.leagues</groupId>
     <artifactId>leagues-web</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <name>Leagues Watch Website</name>
     <description>We monitor all major professional sports leagues (MLB, MLS, NBA, NHL) and notify you as soon as breaking news and scores become available.</description>
     
